@@ -19,3 +19,5 @@ Only for obtaining USB keyboard data from pcap files.
 uv sync
 python ./hacker.py --input <pcap_file>
 ```
+
+> For more information, please read `hacker.py` and upstream repository.
